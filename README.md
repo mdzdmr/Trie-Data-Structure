@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This assignment focuses on implementing a trie (pronounced "try") data structure in C. Tries are tree-like structures used for efficient storage and retrieval of strings, making them ideal for tasks such as autocomplete and spell checking. In this project, each node in the trie represents a character, and the path from the root to any leaf can represent a complete word.
+This program focuses on implementing a trie data structure in C. Tries are tree-like structures used for efficient storage and retrieval of strings, making them ideal for tasks such as autocomplete and spell checking. In this project, each node in the trie represents a character, and the path from the root to any leaf can represent a complete word.
 
 ## Objectives
 
